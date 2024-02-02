@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    
+}
+
+
+div.cu{
+    width: 250px;
+    margin: auto;
+    position:relative;
+    background-color: rgb(139, 134, 134);
+}
+div.centro{
+    color: white;
+}
+.cu img{
+    width: 100%;
+    height: 100%;
+}
+
+div.xota{
+    width: 250px;
+    margin:auto;
+    position: relative;
+    background-color: rgb(139, 133, 133)
+}
+.xota img{
+    width: 100%;
+    height: 100%;
+}
+div.muc{
+    width: 250px;
+    margin:auto;
+    position: relative;
+    background-color: rgb(139, 133, 133)
+}
+.muc img{
+    width: 100%;
+    height: 100%;
+}
+
+a {
+    color: white;
+}
